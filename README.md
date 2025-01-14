@@ -13,7 +13,7 @@ You will need root and Zygisk, so you must choose ONE of this three setups:
 
 - [Magisk](https://github.com/topjohnwu/Magisk) with Zygisk enabled.
 - [KernelSU](https://github.com/tiann/KernelSU) with [ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) module installed.
-- [APatch](https://github.com/bmax121/APatch) with [ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) module installed.
+ [APatch](https://github.com/bmax121/APatch) with [ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) module installed.
 
 After flashing and reboot your device, you can check PI and SN using these apps:
 
